@@ -8,8 +8,8 @@ I look at how a business actually works, find where it loses time and money, and
 
 ### Background
 
-- **Strategy consulting at ZS:** incentive compensation analytics for the pharmaceutical industry, working closely with senior executives.
-- **After-sales analyst at Mercedes-Benz Argentina:** tracked business KPIs and acted as the link between dealerships and the company.
+- **Strategy consulting at ZS:** incentive compensation analytics for the pharmaceutical industry, working closely with senior executives. This is where I learned how consulting works and how the pharma industry operates.
+- **After-sales analyst at Mercedes-Benz Argentina:** tracked business KPIs and acted as the link between dealerships and the company. Working in the automotive industry taught me how much operational excellence in after-sales drives customer success.
 - **FIUBA Consulting Club:** stakeholder management and fundraising for FIUBATON, the club's hackathon.
 
 ### Currently building skills in
