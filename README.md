@@ -28,6 +28,6 @@ More projects coming as I work through my automation and data roadmap.
 
 ### Let's connect
 
-Open to roles in process automation, operations and business analysis, and to helping small businesses automate their work. You can find me on LinkedIn (link in my profile).
+Open to roles in process automation, operations and business analysis, and to helping small businesses automate their work. Find me on [LinkedIn](https://www.linkedin.com/in/ignacioerausquin).
 
 🇦🇷 Based between Argentina and Australia · Spanish and English
